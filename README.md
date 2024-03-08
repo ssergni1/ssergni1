@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my old personal github from my time at university going to freeze the account permently
+
 <!--
 **ssergni1/ssergni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
